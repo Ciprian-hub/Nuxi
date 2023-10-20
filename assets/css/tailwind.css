@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.card {
+    @apply p-3 rounded-md bg-white shadow-md h-full
+}
